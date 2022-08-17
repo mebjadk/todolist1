@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.addTask{
+    text-align: center;
+    padding:40px;
+    background-color: dodgerblue;
+}
+.addTask button{
+    position:relative;
+    padding:6px;
+}
+.addTask input{
+    padding:6px;
+}
+/* --------task.js------------- */
+.list{
+    width:60%;
+    margin:auto;
+    padding:10px;
+}
+.task{
+    display:block;
+    width:50%;
+    text-align: center;
+    margin: 10px auto;
+    padding:10px;
+}
+.task button{
+    margin:20px;
+    padding:5px;
+}
